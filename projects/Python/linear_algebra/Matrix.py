@@ -1,7 +1,7 @@
 __author__ = "Jeremy Michael Miller"
 __copyright__ = "Copyright 2016, Scientific Miller"
 __credits__ = ["Jeremy Michael Miller"]
-__license__ = "GPLv3"
+__license__ = "Fair use v0.9"
 __version__ = "0.0.1"
 __maintainer__ = "Jeremy Michael Miller"
 __email__ = "maybe_later@mst.dnsalias.net"
