@@ -26,8 +26,8 @@ class Matrix:
         return range_ok
 
     def __check_dimensions(self, matrix):
-        if self.number_of_rows != matrix.number_of_rows() or \
-                        self.number_of_columns != matrix.number_of_columns():
+        if self.number_of_rows != matrix.number_of_rows or \
+                        self.number_of_columns != matrix.number_of_columns:
             raise ValueError(
                 "When adding two matrices together the number of rows and columns in both matrices must be equal.")
 
